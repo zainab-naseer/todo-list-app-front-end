@@ -33,11 +33,3 @@ app/ — Next.js App Router pages & components
 components/ — UI components (TaskCard, Header, etc.)
 
 lib/api.ts — API helpers for CRUD actions
-
-🚢 Deployment
-The easiest way to deploy is with Vercel.
-Push your repo to GitHub and import it into Vercel for instant deployment.
-
-🤝 Contributing
-Feel free to fork this repo and suggest improvements via pull requests.
-
